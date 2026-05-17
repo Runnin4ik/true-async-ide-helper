@@ -1,0 +1,10 @@
+{
+    "name": "runni/true-async-ide-helper",
+    "type": "library",
+    "description": "IDE stub files for the TrueAsync PHP extension.",
+    "keywords": ["async", "coroutine", "true-async", "stubs", "ide-helper"],
+    "license": "MIT",
+    "require": {
+        "php": ">=8.6.0"
+    }
+}
